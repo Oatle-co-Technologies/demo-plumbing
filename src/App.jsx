@@ -142,7 +142,7 @@ function App() {
       <footer>
         
 
-        <p>© {new Date().getFullYear()} Your Plumbing Business. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Your Plumbing. Business. All rights reserved.</p>
         <p>Reliable plumbing services for your home and business.</p>
 
         
