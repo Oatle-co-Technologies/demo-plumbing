@@ -56,7 +56,7 @@ function App() {
             <h1>
               Plumbing problems?
               <br />
-              <span>We've got you covered.</span>
+              <span>We've got you covered!</span>
             </h1>
 
             <p>
