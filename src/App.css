@@ -206,6 +206,7 @@ a {
   font-size: 29px;
   line-height: 1.2;
   letter-spacing: -0.8px;
+  color: #142b40;
 }
 
 .services {
@@ -489,7 +490,9 @@ footer {
 
 .button:active {
   transform: translateY(0);
-}.service-card {
+}
+
+.service-card {
   padding: 24px;
   border-radius: 12px;
   line-height: 1.6;
