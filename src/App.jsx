@@ -42,7 +42,7 @@ function App() {
           <a href="#services" onClick={closeMenu}>Services</a>
           <a href="#contact" onClick={closeMenu}>Contact</a>
           <a className="nav-cta" href="#contact" onClick={closeMenu}>
-            Get a Quote
+            Get a Quote!
           </a>
         </nav>
       </header>
